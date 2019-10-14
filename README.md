@@ -16,8 +16,6 @@ Once Soph completes all the puzzles, they enters a room with a boss that represe
 * [ ] Mouse: Projectile guidance 
 
 ### Contributors
-
-### Contributors
 * ##### Alexa Amoriello
 * ##### Liliana Klein
 * ##### Ben Wetzel
