@@ -39,3 +39,7 @@ Once Soph completes all the puzzles, they enters a room with a boss that represe
 * [x] Find sound assets
 * [x] Implement Sound Assets
 * [x] Program "Fly" Mechanic
+
+### Credit
+* [ ] Music provided by Play On Loop
+* [ ] Brackeys, inScope Studios and Roystan for their tutorials on basic player movement for reference
